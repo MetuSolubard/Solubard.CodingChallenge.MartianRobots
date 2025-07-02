@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solubard.CodingChallenge.MartianRobots.Application.CommandLine.Pilot", "Solubard.CodingChallenge.MartianRobots.Application.CommandLine.Pilot\Solubard.CodingChallenge.MartianRobots.Application.CommandLine.Pilot.csproj", "{36E784F3-36C7-47BD-B4A4-201CB0B61635}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solubard.CodingChallenge.MartianRobots.Application.Ioc", "Solubard.CodingChallenge.MartianRobots.Application.Ioc\Solubard.CodingChallenge.MartianRobots.Application.Ioc.csproj", "{D50C1831-6877-4D7E-9D0A-F7ADD271973B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solubard.CodingChallenge.MartianRobots.Domain.Services.Interfaces", "Solubard.CodingChallenge.MartianRobots.Domain.Services.Interfaces\Solubard.CodingChallenge.MartianRobots.Domain.Services.Interfaces.csproj", "{7E79DE5C-FD44-481D-B51A-D2718D08BDD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solubard.CodingChallenge.MartianRobots.Domain.Services", "Solubard.CodingChallenge.MartianRobots.Domain.Services\Solubard.CodingChallenge.MartianRobots.Domain.Services.csproj", "{B1BD2BC9-327D-419A-A801-052F1F6E84A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solubard.CodingChallenge.MartianRobots.Domain.Models", "Solubard.CodingChallenge.MartianRobots.Domain.Models\Solubard.CodingChallenge.MartianRobots.Domain.Models.csproj", "{106ACEE5-A60B-4A41-BEF1-D2C1402C6D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solubard.CodingChallenge.MartianRobots.Domain.Models.Interfaces", "Solubard.CodingChallenge.MartianRobots.Domain.Models.Interfaces\Solubard.CodingChallenge.MartianRobots.Domain.Models.Interfaces.csproj", "{7D9ECF93-ECE3-47A3-A21A-8CBB3D1B1696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solubard.CodingChallenge.MartianRobots.Tests.Domain.Services", "Solubard.CodingChallenge.MartianRobots.Tests.Domain.Services\Solubard.CodingChallenge.MartianRobots.Tests.Domain.Services.csproj", "{6B6DBA5B-C8FE-43EF-8130-3A78288BC85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E784F3-36C7-47BD-B4A4-201CB0B61635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E784F3-36C7-47BD-B4A4-201CB0B61635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E784F3-36C7-47BD-B4A4-201CB0B61635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E784F3-36C7-47BD-B4A4-201CB0B61635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50C1831-6877-4D7E-9D0A-F7ADD271973B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50C1831-6877-4D7E-9D0A-F7ADD271973B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50C1831-6877-4D7E-9D0A-F7ADD271973B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50C1831-6877-4D7E-9D0A-F7ADD271973B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E79DE5C-FD44-481D-B51A-D2718D08BDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E79DE5C-FD44-481D-B51A-D2718D08BDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E79DE5C-FD44-481D-B51A-D2718D08BDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E79DE5C-FD44-481D-B51A-D2718D08BDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BD2BC9-327D-419A-A801-052F1F6E84A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BD2BC9-327D-419A-A801-052F1F6E84A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BD2BC9-327D-419A-A801-052F1F6E84A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BD2BC9-327D-419A-A801-052F1F6E84A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106ACEE5-A60B-4A41-BEF1-D2C1402C6D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106ACEE5-A60B-4A41-BEF1-D2C1402C6D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106ACEE5-A60B-4A41-BEF1-D2C1402C6D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106ACEE5-A60B-4A41-BEF1-D2C1402C6D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9ECF93-ECE3-47A3-A21A-8CBB3D1B1696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9ECF93-ECE3-47A3-A21A-8CBB3D1B1696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9ECF93-ECE3-47A3-A21A-8CBB3D1B1696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9ECF93-ECE3-47A3-A21A-8CBB3D1B1696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6DBA5B-C8FE-43EF-8130-3A78288BC85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6DBA5B-C8FE-43EF-8130-3A78288BC85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6DBA5B-C8FE-43EF-8130-3A78288BC85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6DBA5B-C8FE-43EF-8130-3A78288BC85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF459E56-6FB3-41E3-B60F-51CEAFFD761C}
+	EndGlobalSection
+EndGlobal
