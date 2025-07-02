@@ -17,6 +17,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Models.Enums\Solubard.CodingChallenge.MartianRobots.Domain.Models.Enums.csproj" />
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Models.Interfaces\Solubard.CodingChallenge.MartianRobots.Domain.Models.Interfaces.csproj" />
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Models\Solubard.CodingChallenge.MartianRobots.Domain.Models.csproj" />
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Services.Interfaces\Solubard.CodingChallenge.MartianRobots.Domain.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Services\Solubard.CodingChallenge.MartianRobots.Domain.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
