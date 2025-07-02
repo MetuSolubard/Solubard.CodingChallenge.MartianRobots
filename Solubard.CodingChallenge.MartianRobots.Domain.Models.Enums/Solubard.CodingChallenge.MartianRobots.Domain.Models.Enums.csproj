@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Models.Enums\Solubard.CodingChallenge.MartianRobots.Domain.Models.Enums.csproj" />
-  </ItemGroup>
-
 </Project>

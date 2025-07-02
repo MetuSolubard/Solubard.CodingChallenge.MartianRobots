@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Domain.Models\Solubard.CodingChallenge.MartianRobots.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>
