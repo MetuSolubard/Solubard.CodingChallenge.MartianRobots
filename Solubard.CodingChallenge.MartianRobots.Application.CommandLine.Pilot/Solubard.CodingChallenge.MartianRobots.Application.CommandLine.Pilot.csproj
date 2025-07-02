@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Solubard.CodingChallenge.MartianRobots.Application.Ioc\Solubard.CodingChallenge.MartianRobots.Application.Ioc.csproj" />
+  </ItemGroup>
+
 </Project>
