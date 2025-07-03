@@ -22,10 +22,6 @@ LLFFFLFLFL
 2 3 S
 ```
 
-## The straight forward way
-The solution contains a project 'StraightForwardWay' which is the AI generated approach to the problem. It exhibits the most simplest solution to the problem without taking much design principles into account or scalability.
-The StraightForwardWay approach however definitely ticks the box for 'KISS' (Keep It Simple Stupid).
-
 ## 🏗️ Architecture & Design Decisions
 
 ### Domain-Driven Design (DDD)
